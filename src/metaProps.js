@@ -16,7 +16,7 @@ export const propTypes = {
 
 export const defaultProps = {
   separator: ',',
-  filename: 'generatedBy_react-csv.csv',
+  filename: 'paperdog-manifesto.csv',
   uFEFF: true,
   asyncOnClick: false,
   enclosingCharacter: '"'
